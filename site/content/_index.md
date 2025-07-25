@@ -1,7 +1,7 @@
 ---
 title: HandyMan
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+subtitle: Helping You Keep Your Home Safe, Strong, and Beautiful.
+image: img/home-jumbotron.jpg
 blurb:
   heading: Whys US ?
   text: Kaldi is the coffee store for everyone who believes that great coffee
